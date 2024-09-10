@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/moodie4475" target="blank"><img src="https://img.shields.io/twitter/follow/moodie4475?logo=twitter&style=for-the-badge" alt="moodie4475" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
