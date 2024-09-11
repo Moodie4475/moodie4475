@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moodie</h1>
+<h1 align="center">Hi 👋, I'm Joeri</h1>
 <h3 align="center">A passionate developer from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moodie4475&label=Profile%20views&color=0e75b6&style=flat" alt="moodie4475" /> </p>
